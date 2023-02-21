@@ -14,7 +14,7 @@ LinkedIn: https://www.linkedin.com/in/vira-krychkovska-73b979217/
 * creating and executing scripts to autumate manual test cases for saving manual efforts using Selenium + Python  
 
 ## My experience
-I work over 1 year in an American digital services company providing software product design and development services. My project is the leading global provider in clinical trials of treatments for central nervous system disorders improving clinician-reported diagnostic and outcome measurements. My work includes creating test documentations (test plan, test summary reports, test runs, test cases), execution of manual testing (functional, smoke, regression), issues managemen.
+I work over 1 year in an American digital services company providing software product design and development services. My project is the leading global provider in clinical trials of treatments for central nervous system disorders improving clinician-reported diagnostic and outcome measurements. My work includes creating test documentations (test plan, test summary reports, test runs, test cases), execution of manual testing (functional, smoke, regression), issues management.
 
 ## Tools:
 * Jira, Mantis - bug trackers  
