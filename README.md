@@ -24,6 +24,7 @@ I work over 1 year in an American digital services company providing software pr
 * Git, GitHub  
 * Selenium IDE - tool use to support automated testing  
 * Selenium WebDriver - for automated testing of web applications  
+* Pycharm
 
 ## My projects:
 #### [Bug reports](https://docs.google.com/spreadsheets/d/1Qo7s_EbDH0te6y-5m7egjkfptdaahKSOLqOPU1UXkGE/edit?usp=share_link)  
