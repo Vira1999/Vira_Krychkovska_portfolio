@@ -37,7 +37,7 @@ I work over 1 year in an American digital services company providing software pr
 * July – September 2021 «GL QA & AQA Java BaseCamp» in Global Logic (Testing theory, Java basics, Automation Testing, Networking)    
 * June – July 2021 «The Fundamentals of Software Testing» in QATestLab Training Center (Testing theory, practical Web, Mobile, Game testing)  
 * September 2021 «Testing Masterclass» in ITEA  
-* January - Ferbuary 2023 «Dare IT Challenge: QA Automated Testing» in Dare IT ()
+* January - Ferbuary 2023 «Dare IT Challenge: QA Automated Testing» in Dare IT
 
 ## Languages
 English – Upper intermediate  
